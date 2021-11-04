@@ -20,6 +20,7 @@ social-email: meshmht@gmail.com
 
 # Build Settings
 markdown: kramdown
+remote_theme: mohit-meshram/my_github_page_theme
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
