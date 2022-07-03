@@ -978,7 +978,7 @@
     font-weight: 700;
   }
 
-  .about .author-name::after {
+  .about .author-name: {
     content: "";
     position: absolute;
     left: 50%;
